@@ -4,7 +4,7 @@ import unicodedata
 
 a=open(r'Города.txt', encoding='utf8')
 b=a.readlines()
-bot = telebot.TeleBot('5102222785:AAGZKgCbHEpGnXy_uPuEU1cYTvEe3cf5a7g') #ВСТАВИТЬ СЮДА ТОКЕН БОТА
+bot = telebot.TeleBot('5213294205:AAEkCQyTB1oS0XBitq71GxhqlbNCgYH-7KA') #ВСТАВИТЬ СЮДА ТОКЕН БОТА
 
 city=set()
 cityb=set()
